@@ -1,2 +1,2 @@
-# Netwrok-Traffic-Forecasting
+# Network-Traffic-Forecasting
 Network traffic data pre-processing, analysis, manipulation, visualization and forecasting.
